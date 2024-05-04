@@ -1,5 +1,5 @@
 - 👋 Hi, Myself Vibhav 
-- 👀 I’m interested in Frontened Web Development
+- 👀 I’m interested in  Web Development
 - 🌱 Currently working on mern stack projects
 - 💞️
 - 
