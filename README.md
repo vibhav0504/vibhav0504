@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Vibhav 
+- 👋 Hi, Myself Vibhav 
 - 👀 I’m interested in Frontened Web Development
-- 🌱 I’m currently learning  React Js
-- 💞️ I’m looking to collaborate on Frontend
+- 🌱 Currently working on mern stack projects
+- 💞️
 - 
 
 <!---
